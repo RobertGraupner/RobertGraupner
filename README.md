@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Cześć! Nazywam się Robert! </h1>
 <br />
 <h3 align="center">Jestem junior frontend developerem szukającym swojej pierwszej pracy w IT:) </h3>
+<br />
 Lubię uczyć się nowych rzeczy i podnosić swoje umiejętności. Jeśli chcesz dowiedzieć się więcej o mojej osobie zajrzyj na mój <a href="https://www.linkedin.com/in/robertgraupner/">Linkedin.</a>
 
 <br /> 
