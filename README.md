@@ -1,5 +1,4 @@
 
-
 <!--
 **RobertGraupner/RobertGraupner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Cześć! Nazywam się Robert! </h1>
+<br />
 <h4 align="center">Jestem junior frontend developerem szukającym swojej pierwszej pracy w IT:) </h4>
-Lubię uczyć się nowych rzeczy i podnosić swoje umiejętności. Jeśli chcesz dowiedzieć się więcej o mojej osobie zajrzyj na mój [<img height="30px" src="https://raw.githubusercontent.com/RobertGraupner/RobertGraupner/main/Logo/linkedin.png">](https://www.linkedin.com/in/robertgraupner/)
+Lubię uczyć się nowych rzeczy i podnosić swoje umiejętności. Jeśli chcesz dowiedzieć się więcej o mojej osobie zajrzyj na mój <a href="https://www.linkedin.com/in/robertgraupner/">Linkedin.</a>
 
 <br /> 
 <br />
@@ -52,4 +52,4 @@ Co jeszcze chcę poznać:
 
 👉 TypeScript
 👉 MongoDB
-👉 podstawy backendu
+👉 Podstawy backendu
