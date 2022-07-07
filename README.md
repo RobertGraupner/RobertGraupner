@@ -52,5 +52,6 @@ Do tej pory poznałem:
 Co jeszcze chcę poznać:
 
 👉 TypeScript
+👉 Testy jednostkowe
 👉 MongoDB
 👉 Podstawy backendu
