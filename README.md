@@ -39,7 +39,7 @@ Lubię uczyć się nowych rzeczy i podnosić swoje umiejętności. Jeśli chcesz
 <br />
 <div align="center">
   <a href="https://github.com/RobertGraupner">
-    <img src="https://github-readme-stats.vercel.app/api?username=RobertGraupner&show_icons=true&theme=tokyonight&rank_icon=github&hide=contribs" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RobertGraupner&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
   </a>
   <br />
   <br />
