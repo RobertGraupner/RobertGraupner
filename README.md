@@ -38,8 +38,8 @@ Lubię uczyć się nowych rzeczy i podnosić swoje umiejętności. Jeśli chcesz
 <br />
 <br />
 <div align="center">
-  [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertGraupner&show_icons=true&theme=tokyonight&rank_icon=github)]
+  https://github-readme-stats.vercel.app/api?username=RobertGraupner&show_icons=true&theme=tokyonight&rank_icon=github
   <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGraupner)](https://github.com/anuraghazra/github-readme-stats)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGraupner
 </div>
 
