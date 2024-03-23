@@ -35,3 +35,6 @@ Lubię uczyć się nowych rzeczy i podnosić swoje umiejętności. Jeśli chcesz
 </div>
 <br /> 
 <br /> 
+<br />
+<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertGraupner)](https://github.com/anuraghazra/github-readme-stats)
