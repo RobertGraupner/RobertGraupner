@@ -37,4 +37,4 @@ Lubię uczyć się nowych rzeczy i podnosić swoje umiejętności. Jeśli chcesz
 <br /> 
 <br />
 <br />
-(https://github-readme-stats.vercel.app/api?username=RobertGraupner)
+(https://github-readme-stats.vercel.app/api?username=RobertGraupner&show_icons=true)
