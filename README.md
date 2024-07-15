@@ -1,36 +1,23 @@
+# Hi! My name is Robert!
 
-<!--
-**RobertGraupner/RobertGraupner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend developer passionate about creating dynamic and user-friendly web applications. With a strong foundation in modern web technologies and a continuous drive to learn and adapt, I strive to deliver high-quality code and innovative solutions.
 
-Here are some ideas to get you started:
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![react-hook-form](https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-<h1 align="center">Cześć! Nazywam się Robert! </h1>
-<br />
-<h3 align="center">Jestem frontend developerem :) </h3>
-<br />
-Lubię uczyć się nowych rzeczy i podnosić swoje umiejętności. Jeśli chcesz dowiedzieć się więcej o mojej osobie zajrzyj na mój <a href="https://www.linkedin.com/in/robertgraupner/">Linkedin.</a>
+I enjoy taking on new challenges and continuously improving my skills. For more details about my professional journey and experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/robertgraupner/).
 
-<br /> 
-<br />
-<h1 align="center">Technologie </h1>
-<div align="center">
-<img height="65px" alt="html" src="https://raw.github.com/RobertGraupner/RobertGraupner/main/Logo/html.png" />
-<img height="65px" alt="css" src="https://raw.githubusercontent.com/RobertGraupner/RobertGraupner/main/Logo/css3.png" />
-<img height="65px" alt="saas" src="https://raw.githubusercontent.com/RobertGraupner/RobertGraupner/main/Logo/saas.png " />
-<img height="65px" alt="js" src="https://raw.githubusercontent.com/RobertGraupner/RobertGraupner/main/Logo/js.png" />
-<img height="65px" alt="react" src="https://raw.githubusercontent.com/RobertGraupner/RobertGraupner/main/Logo/react.png" />
-<img height="65px" alt="redux" src="https://raw.githubusercontent.com/RobertGraupner/RobertGraupner/main/Logo/redux.png" />
-<img height="65px" alt="git" src="https://raw.githubusercontent.com/RobertGraupner/RobertGraupner/main/Logo/git.png" />
-<img height="65px" alt="webpak" src="https://raw.githubusercontent.com/RobertGraupner/RobertGraupner/main/Logo/webpak.png" />
-</div>
-<br /> 
+Feel free to connect with me!
